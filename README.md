@@ -6,9 +6,9 @@ reactを用いたタスク管理アプリ
 * react-beautiful-dnd: v13.1.1
 
 ## Usage
-``
+```bash
 npm start
-``
+```
 上記のコマンドを実行することで Web ブラウザが起動する
 
 各タスクを入れ替えることが可能
